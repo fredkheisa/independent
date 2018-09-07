@@ -1,0 +1,18 @@
+body {
+    block-overflow: unset;
+  }
+  h1 {
+    color: blue;
+    text-align: center;
+    background-color: rgb(124, 196, 53);
+    font-size: 60px;
+    font-style: oblique;
+  
+  }
+  h2 {
+    color: rgb(6, 230, 238);
+    font-style: italic;
+    text-align: center;
+    font-style: italic;
+  }
+
