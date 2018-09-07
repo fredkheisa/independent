@@ -15,4 +15,15 @@ body {
     text-align: center;
     font-style: italic;
   }
+  
+ul.intro {
+  color: rgb(248, 8, 8);
+}
 
+.list {color: tomato;
+}
+
+ol {
+  color: darkorange
+
+}
