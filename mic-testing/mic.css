@@ -1,8 +1,3 @@
-img {
-    float: left;
-  }
-  .sidebar {
-    width: 30%;
-    float: right;
-    background-color: yellow;
+.test-box {
+    border: 2px solid red;
   }
